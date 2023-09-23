@@ -1,0 +1,1 @@
+<h1>{{$blog->comments->last()->body}}</h1>
